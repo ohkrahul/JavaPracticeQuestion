@@ -7,6 +7,7 @@ class Fibonacci_Series {
          int num = input.nextInt();
          System.out.print("Here is the Fibo series : ");
          printFibonacci(num);
+         System.out.println("Hii");
      }
 
 
